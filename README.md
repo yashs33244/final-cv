@@ -73,6 +73,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 👥 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yashs33244) - yashs33244@gmail.com
+Your Name - [@yashs3324](https://twitter.com/yashs33244) - yashs33244@gmail.com
 
 Project Link: [https://github.com/yashs33244/final-cv](https://github.com/yashs33244/final-cv)
